@@ -1,0 +1,23 @@
+caption{
+    font-size: 30px;
+}
+th, .horraire{
+    padding: 20px;
+    background-color: rgb(51, 167, 51);
+}
+.horraire{
+    width: 20px;
+    height: 30px;
+}
+th, tr, td{
+    border: 1px solid;
+}
+
+td{
+    padding: 25px;
+}
+.pause{
+    font-size: 20px;
+    background-color: rgb(124, 120, 120);
+    padding-left: 40%;
+}
