@@ -9,9 +9,9 @@ th, .horraire{
     width: 20px;
     height: 30px;
 }
-th, tr, td{
+/* th, tr, td{
     border: 1px solid;
-}
+} */
 
 td{
     padding: 25px;
